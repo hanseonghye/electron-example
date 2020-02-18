@@ -1,0 +1,1 @@
+https://github.com/klugjo/electron-timer-app 참고

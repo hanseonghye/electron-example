@@ -1,0 +1,1 @@
+https://github.com/thelostwind/electron-clock 참고
